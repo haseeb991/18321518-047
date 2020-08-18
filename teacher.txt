@@ -1,0 +1,4 @@
+c1 ahmad yaqoob male 34 milk_pack p1 100
+c2 abdullah manzoor male 34 milk_pack p1 100
+c3 abdullah ahmad male 34 bread p18 100
+c4 ali husnain male 34 juice p78 100
